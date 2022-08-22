@@ -3,4 +3,10 @@ $(document).ready(function () {
         e.preventDefault();
         $('.menu').slideToggle();
     });
+    $('.top a').click(function (e) { 
+        e.preventDefault();
+        $('html,body').animate({
+            scrollTop:0
+        }, 500);
+    });
 });
