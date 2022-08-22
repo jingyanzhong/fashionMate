@@ -672,7 +672,7 @@ header nav .menu-show-icon {
   color: #fff;
   background: #6B7E9F;
   border: none;
-  padding: 8px 0;
+  padding: 16px 0;
   cursor: pointer;
 }
 .productList li button:hover {
@@ -839,6 +839,8 @@ header nav .menu-show-icon {
   background: #6B7E9F;
   font-size: 24px;
   cursor: pointer;
+  justify-content: center;
+  align-items: center;
 }
 .subscribed .subscribed-bg {
   position: absolute;
