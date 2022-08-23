@@ -493,7 +493,7 @@ header nav .menu-show-icon {
   background: #F4F4F4;
   margin-bottom: 112px;
 }
-.boxAdvertise .boxAdvertise-1 .main-img {
+.boxAdvertise .boxAdvertise-1 .mainImg {
   background: url("../img/ad-1.jpg");
 }
 .boxAdvertise .boxAdvertise-1 .line {
@@ -505,7 +505,7 @@ header nav .menu-show-icon {
 .boxAdvertise .boxAdvertise-2 .container {
   flex-direction: row-reverse;
 }
-.boxAdvertise .boxAdvertise-2 .main-img {
+.boxAdvertise .boxAdvertise-2 .mainImg {
   background: url("../img/ad-2.jpg");
   background-position: center;
 }
@@ -519,13 +519,13 @@ header nav .menu-show-icon {
   justify-content: space-between;
   align-items: center;
 }
-.boxAdvertise .advertise-img {
+.boxAdvertise .advertiseImg {
   width: 424px;
   height: 481px;
   margin-top: -26px;
   margin-bottom: -26px;
 }
-.boxAdvertise .advertise-img .main-img {
+.boxAdvertise .advertiseImg .mainImg {
   height: 100%;
   background-size: cover;
 }
@@ -560,7 +560,7 @@ header nav .menu-show-icon {
 }
 
 @media (max-width: 992px) {
-  .boxAdvertise .advertise-img {
+  .boxAdvertise .advertiseImg {
     width: 50%;
   }
   .boxAdvertise .line {
@@ -588,7 +588,7 @@ header nav .menu-show-icon {
     padding: 0;
     flex-direction: column;
   }
-  .boxAdvertise .advertise-img {
+  .boxAdvertise .advertiseImg {
     width: 100%;
     margin: 0 0 16px 0;
   }
