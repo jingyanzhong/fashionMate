@@ -205,7 +205,7 @@ header nav h1 a {
   white-space: nowrap;
 }
 header nav .menu {
-  display: flex;
+  display: block;
   margin-left: auto;
 }
 header nav .menu > .d-flex {
