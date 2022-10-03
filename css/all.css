@@ -395,6 +395,7 @@ header nav .menu-show-icon {
   }
   header nav .menu a {
     padding: 8px;
+    font-size: 14px;
   }
   header nav .menu > .d-flex {
     justify-content: center;
