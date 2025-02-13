@@ -488,6 +488,7 @@ header nav .menu-show-icon {
 
 .boxAdvertise {
   margin-bottom: 86px;
+  overflow: hidden;
 }
 .boxAdvertise .boxAdvertise-1 {
   background: #F4F4F4;
